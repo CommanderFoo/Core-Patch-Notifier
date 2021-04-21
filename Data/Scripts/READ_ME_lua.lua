@@ -1,0 +1,1 @@
+-- Documentation: https://popthosepringles.github.io/Core-Patch-Notifier/
